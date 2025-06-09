@@ -12,70 +12,25 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Front-End Developer with over 2 years of experience using Angular, React, and TypeScript. Specialized in microservices architecture, REST API integration, Docker deployment, and CI/CD pipelines. Strong focus on responsive UI/UX and accessibility (WCAG). Committed to code quality, performance, and collaborative work environments. </p>
+<p align="left">Desarrollador Front End con más de 2 años de experiencia en Angular, React y TypeScript. Especializado en microservicios, integración de APIs REST, despliegue con Docker y flujos CI/CD. Fuerte enfoque en UI/UX responsive y accesibilidad. Comprometido con buenas prácticas, rendimiento y trabajo en equipo. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- ✨ Estudiante de la vida  :)
+- 🌱 Actualmente estoy aprendiendo, es el momento perfecto.
+- ✍ Visita mi linkedin(https://www.linkedin.com/in/sebastian-alvarez-paez-566799271/).
+- 💻 visita mi [Portafolio](https://portafolio-pwf8wvzyw-sebastian0328s-projects.vercel.app/).
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
 
 ---
 <br />
 
-<!--Languages and Tools Section-->       
+<!--Lenguajes y Herramientas Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+ Project" />
         </a>
       </p>
     </td>
